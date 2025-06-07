@@ -1,0 +1,6 @@
+{
+    "name": "sd/arcanist-linters",
+    "type": "library",
+    "description": "",
+    "keywords": ["arcanist", "linters"]
+}
