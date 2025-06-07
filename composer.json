@@ -2,5 +2,6 @@
     "name": "sd/arcanist-linters",
     "type": "library",
     "description": "",
-    "keywords": ["arcanist", "linters"]
+    "keywords": ["arcanist", "linters"],
+    "minimum-stability": "dev"
 }
